@@ -1,4 +1,3 @@
-# dev-mod-2
+# dev-mod-16
 
-Run command on my PC: 
-            C:\goit\dev\mod-2> gradle test
+Work with CI/CD
